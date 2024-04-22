@@ -63,10 +63,10 @@ To deploy the compiled smart contract to an Ethereum network, use the `deploy.js
    const provider = new HDWalletProvider(
      "your 12-word mnemonic",
      "https://mainnet.infura.io/v3/YOUR_INFURA_API_KEY"
-   ); ```
+   );
    
 2. **Navigate to the Repository**
-       ```bash
+   ```bash
     cd Lottery_Smart_Contract
     ```
 3. **Run the Deployment Script**
