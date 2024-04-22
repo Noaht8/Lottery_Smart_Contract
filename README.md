@@ -7,5 +7,7 @@ This repository contains a simple Ethereum smart contract written in Solidity fo
 - Lottery_Smart_Contract
   - contracts
     - Lottery.sol
+  - test
+    - Lottery.test.js
   - compile.js
   - deploy.js
